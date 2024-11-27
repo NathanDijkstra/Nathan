@@ -1,1 +1,1 @@
-print("hallo, ik ben Nathan Dijkstra")
+print("hallo, ik ben Nathan Dijks")
